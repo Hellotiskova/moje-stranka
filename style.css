@@ -1,0 +1,73 @@
+body {
+    background-color: #83d483;
+}
+
+body {
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+body {
+    text-align: center;
+}
+
+ul,
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.tech-logo {
+    width: 1em;
+    height: 1em;
+}
+
+a {
+    font-size: 1.5em;
+}
+
+.hlavni-fotka {
+    border-radius: 16px;
+}
+
+a {
+    color: #ebd723;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #223fe6;
+    text-decoration: underline;
+}
+
+.container {
+    max-width: 700px;
+    /* nastav maximální šířku podle potřeby, např. 600–900px */
+    margin: 40px auto 0 auto;
+    /* zarovná kontejner na střed stránky */
+    padding: 0 16px;
+    /* přidá vnitřní odsazení pro lepší vzhled na mobilu */
+    text-align: center;
+    /* volitelné – pokud chceš text na střed */
+}
+body {
+  background-image: url('sunset-stars-night-sky-synthwave-abstract-digital-art-8k-wallpaper-uhdpaper.com-625@2@a.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  .overlay-text {
+  background: rgba(255, 255, 255, 0.85);
+  color: #fff;
+  padding: 28px 22px;
+  border-radius: 18px;
+  max-width: 700px;
+  margin: 40px auto 0 auto;
+  font-size: 1.2em;
+  font-weight: bold;
+  line-height: 1.7;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.2);
+  text-shadow: 0 2px 8px #000, 0 1px 2px #222;
+  position: relative;
+  z-index: 10;
+}
